@@ -45,8 +45,8 @@
 
 ## 🤝 Let’s Connect Me
 
-- 💌 Email: ⟪natthapong.dev9148@gmail.com⟫  
-- 🐦 DM me on [Facebook](https://www.facebook.com/natthapong.chatchaloem)
+- 💌 Email: ⟪adison.noodaeng@gmail.com⟫ 
+- 🐦 DM me on [Facebook](https://www.facebook.com/oOKimejye112Oo)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NC-Kaito&style=flat-square" alt="profile views"/>
