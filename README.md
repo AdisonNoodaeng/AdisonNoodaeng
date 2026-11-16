@@ -44,7 +44,7 @@
 </tr>
 
 <!-- ==================== Project 1 ==================== -->
-<tr style="vertical-align: top;">
+<!-- <tr style="vertical-align: top;">
   <td style="vertical-align: top; text-align: center;">
     <div style="text-align: left;">🛵 <strong>Campus Food Delivery</strong></div>
     <br>
@@ -126,7 +126,7 @@
 </tr>
 
 <!-- ==================== Project 2 ==================== -->
-<tr style="vertical-align: top;">
+<!-- <tr style="vertical-align: top;">
   <td style="vertical-align: top; text-align: center;">
     <div style="text-align: left;">🇯🇵 <strong>Japanese-Language Proficiency Test</strong></div>
     <br>
@@ -135,7 +135,7 @@
       <a href="images/JLPT_project_homepage.png" target="_blank" title="Click to view full image">
         <img src="images/JLPT_project_homepage.png"
           alt="JLPT Project Homepage Screenshot"
-          width="3
+          width="3 -->
 
 ## 🤝 Let’s Connect Me
 
